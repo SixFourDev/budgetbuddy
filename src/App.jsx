@@ -1,11 +1,11 @@
-// src/App.jsx
 import React from 'react';
+import './App.css';
+import SideNavigation from './components/SideNavigation';
 
 const App = () => {
   return (
-    <div>
-      <h1>Welcome to BudgetBuddy!</h1>
-      {/* Add components and application logic here */}
+    <div className="app-container">
+      <SideNavigation />
     </div>
   );
 };
