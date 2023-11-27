@@ -1,5 +1,5 @@
 import React from 'react';
-import './SideNavigation.css';
+import '../styling/SideNavigation.css';
 
 const SideNavigation = () => {
     return (

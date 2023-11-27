@@ -1,0 +1,6 @@
+.dashboard {
+    padding: 20px;
+    width: calc(100% - 200px);
+}
+
+/* Add additional styling for other dashboard components here */
